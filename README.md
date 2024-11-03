@@ -15,7 +15,7 @@ Data Visualization: Using Chart.js to create dynamic visuals and bring data to l
 Front-End: JavaScript (React, Angular), HTML, SCSS, Angular Material, PrimeNG
 Back-End: Node.js, Express, Java Spring Boot, Flask, Django
 Database: MySQL, MongoDB
-Tools & Other Skills: Postman, WebSocket, Git, RESTful API integration, QR Code generation, Chart.js
+Tools & Other Skills: Postman, WebSocket, Git, RESTful API integration, Chart.js
 
 💼 Professional Experience
 I’ve had the opportunity to work in both startup environments and collaborative team settings. Recently, I completed an internship at Hippomed, where I was tasked with building essential front-end components for a healthcare booking system. This experience has honed my ability to tackle complex problems, adapt quickly, and deliver polished, functional code.
